@@ -19,6 +19,9 @@
 	* 例: 本を1日1 chaper読む、単語帳を1周する、例文を100 sentence読むなど
 	* 土日は平日+αとし、土日に付加する形とする
 * 英語とRuby以外の学習は土日にまとめてやる
+* 睡眠時間は7h
+* 300km / monthは走る
+	* 16km(10mile) / day
 
 
 
@@ -28,27 +31,27 @@
 
 
 ### タイムテーブル
-1.  0:00 就寝時間
+1.  23:00 就寝時間
 2.  6:00 起床時間
 3.  6:00 朝食・弁当作成
 4.  6:50 食事
 5.  7:20 シャワー
 6.  7:40 身支度
 7.  8:10 出発
-8.  ~ 12:10 昼食
-9.  ~ 12:40(0.5h) 学習
-10. ~ 13:00 昼寝
+8.  12:00 ~ 12:10 昼食
+9.  12:10 ~ 12:40(0.5h) 学習
+10. 12:40 ~ 13:00 昼寝
 11. 19:00 帰宅時間
-12. ~ 20:00 夕食時間
+12. 20:00 夕食時間
 	* 帰宅してない場合もここで食事を摂る
 13. 学習			20:00
-14. 運動開始		22:00
-	* run 10~15km(an hour)
-		* to Akihabara 10km
-		* to Tokyo Station		13km
-		* to Yuraku-Cho			15km
-		* to Shibuy				14km
-		* to Shinjuku via shibuya	16km
+14. 運動開始		21:00 ~ 22:30
+	* 15~22km
+		* to Akihabara						10km(round)
+		* to Tokyo Station				13km(round)
+		* to Yuraku-Cho						16km(round)
+		* to Tokyo Tower					22km(round)
+		* to Shinjuku via shibuya	16km(one way)
 	* 筋トレ(half hour)
 		* 腹筋
 		* muscle sprit
